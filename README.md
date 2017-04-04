@@ -17,3 +17,7 @@ This website is initially built to help the exploration of GitHub by our work ex
 The aim is for work experience students to leave Development team with their own site, which they can continue to develop on.
 
 And pizzas.
+
+Simple git guides:
+
+* http://rogerdudler.github.io/git-guide/
