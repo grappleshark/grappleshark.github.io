@@ -11,3 +11,7 @@ This website is initially built to help the exploration of GitHub by our work ex
 * Maybe open pull requests / merge if collaboration is required
 * Deploy a webpage to their own username.github.io 
 * Celebrate with pizzas
+
+The aim is for work experience students to leave Development team with their own site, which they can continue to develop on.
+
+And pizzas.
