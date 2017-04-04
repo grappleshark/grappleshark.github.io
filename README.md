@@ -19,11 +19,11 @@ The aim is for work experience students to leave Development team with their own
 And pizzas.
 
 Tools:
-* GitBash
+* Git Bash
 * NotePad++
 * VisualStudio
 
-Simple git guides:
+Simple Git guides:
 
 * https://pages.github.com/
 * http://rogerdudler.github.io/git-guide/
