@@ -20,4 +20,5 @@ And pizzas.
 
 Simple git guides:
 
+* https://pages.github.com/
 * http://rogerdudler.github.io/git-guide/
