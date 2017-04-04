@@ -1,1 +1,13 @@
-## Welcome to GrappleShark Pages
+## Welcome to GrappleShark GitHub Pages
+
+This website is initially built to help the exploration of GitHub by our work experience students. The aim is for them to understand:
+
+* How to build websites
+* Create a github account
+* How to create a repository
+* How to add files
+* How to create a branch
+* How to make and commit changes
+* Maybe open pull requests / merge if collaboration is required
+* Deploy a webpage to their own username.github.io 
+* Celebrate with pizzas
