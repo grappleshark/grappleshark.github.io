@@ -1,5 +1,7 @@
 ## Welcome to GrappleShark GitHub Pages
 
+https://grappleshark.github.io/
+
 This website is initially built to help the exploration of GitHub by our work experience students. The aim is for them to understand:
 
 * How to build websites
